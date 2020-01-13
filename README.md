@@ -1,4 +1,4 @@
-# README For Presentation
+# Notes for Presentations
 
 ## Structuring a Presentation
 ### 1) Angle/Objectives/Thesis
